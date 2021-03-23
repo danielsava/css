@@ -27,3 +27,10 @@ O `cascading` sugere que o CSS obedece uma `hierarquia` na definição de suas e
     #titulo {
       font-size: 25px
     }
+
+
+Para definição de estilo acima temos, à título de exemplo, a seguinte aplicação:
+
+    <h1 class="cabecalho" id="titulo">Título</h1>
+    
+Em virtude da característica de `cascading` do CSS o texto `Título` terá uma fonte de 25px, pois o `id` é a definição de CSS mais `específica` para este elemento, pois teremos somente 1 elemento na DOM com o `id="titulo"`.
