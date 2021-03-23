@@ -1,6 +1,6 @@
 # CSS
 
-Material de referência e consulta:
+Material de referência e consulta.
 
 Fontes:
 
