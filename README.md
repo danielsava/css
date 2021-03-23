@@ -29,6 +29,8 @@ O `cascading` sugere que o CSS obedece uma `hierarquia` na definição de suas e
     }
 
 
+<br/>
+
 Para definição de estilo acima temos, à título de exemplo, a seguinte aplicação:
 
     <h1 class="cabecalho" id="titulo">Título</h1>
