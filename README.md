@@ -2,13 +2,16 @@
 
 Material de referência
 
+<br/>
 
 ## `Cascadagin` Style Sheet
 
 O Cascading sugere que a estilização do CSS obedece uma `hierarquia`: 
   
-    Para um mesmo elemento, podemos ter mais de uma definição de estilização. A definição `mais específica` terá prioridade, autoridade, sobre a `menos específica`. 
+    Para um mesmo elemento, podemos ter mais de uma definição de estilização. 
+    A definição `mais específica` terá prioridade, autoridade, sobre a `menos específica`. 
 
+<br/>
 
 ## Definição: elemento, classes e id
 
